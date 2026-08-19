@@ -171,7 +171,7 @@ The August cohort should be interpreted cautiously because the analysis period e
 
 ## 💡 Recommendations
 
-### 1. Investigate the Select Item → Add to Cart drop-off
+### 1. Investigate the Select Item → Add to Cart drop-of
 
 The first priority should be understanding what is causing the largest funnel drop.
 
@@ -183,7 +183,7 @@ Potential hypotheses could include:
 - User experience or interface friction.
 - Shipping or additional costs.
 
-These are hypotheses rather than conclusions and would require additional data to validate.
+*Actionable Next Step:* These are hypotheses rather than conclusions and require additional data to validate. Applying a **Root Cause Analysis (RCA)** framework combined with targeted **A/B testing** will help isolate friction points regarding pricing transparency and UI mechanics at the item selection stage
 
 ### 2. Analyze conversion by traffic source
 
