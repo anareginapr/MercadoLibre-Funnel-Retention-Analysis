@@ -63,6 +63,9 @@ Contains user registration and activity information used to measure retention, i
 
 ## 🔎 Methodology
 
+Data Schema & Exploration
+Prior to building the funnel and cohort queries, initial data exploration was performed on the source tables (mercadolibre_funnel and mercadolibre_retention) to verify column data types, event sequencing, and unique user identifiers across the period 2025-01-01 to 2025-08-31.
+
 ### 1. Funnel Analysis
 
 I built the purchase funnel using SQL CTEs, creating a separate user-level dataset for each stage.
